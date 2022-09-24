@@ -6,7 +6,7 @@ permalink: /work/
 
 # Givens, Argonne National Laboratory, Lemont, IL. Summer 2022
 
-I am working at ANL as a Givens Intern. My mentor is [Dr. Richard Mills](https://climatemodeling.org/~rmills/). Our work focuses on evaluate, improve, and extend the interfaces to underlying PETSc solvers in two software packages, NGSolve and Firedrake, that provide high-level tools to automate the solution of partial differential equations (PDEs) using finite element methods. A particular focus is enabling the effective use of GPU accelerator devices to solve the algebraic systems of equations arising from PDE discretizations; we will also explore extending interfaces to use higher-level solver components (nonlinear solvers, timesteppers, numerical optimizers) as well as providing support for physics-based block preconditioners.
+I worked at ANL as a Givens Intern. My mentor was [Dr. Richard Mills](https://climatemodeling.org/~rmills/). Our work focuses on evaluate, improve, and extend the interfaces to underlying PETSc solvers in two software packages, NGSolve and Firedrake, that provide high-level tools to automate the solution of partial differential equations (PDEs) using finite element methods. A particular focus is enabling the effective use of GPU accelerator devices to solve the algebraic systems of equations arising from PDE discretizations; we will also explore extending interfaces to use higher-level solver components (nonlinear solvers, timesteppers, numerical optimizers) as well as providing support for physics-based block preconditioners.
 
 # GTA & GRA, Portland State University, Portland, OR. Fall 2021 - Today
 

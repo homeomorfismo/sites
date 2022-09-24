@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Skibowl Mount Hood](/assets/pic1.png "Me at Skibowl Mount Hood")
+![Skibowl Mount Hood](assets/pic1.png "Me at Skibowl Mount Hood")
 
 # About me
 
