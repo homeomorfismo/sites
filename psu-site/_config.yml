@@ -51,3 +51,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Nav Links
+header_pages:
+  - experience.md
+  - teaching.md
+  - publications.md
+  - other-sites.md

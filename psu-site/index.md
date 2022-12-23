@@ -6,7 +6,10 @@ layout: home
 
 # About me
 
-I’m Gabriel Pinochet Soto, a 25-year-old graduate student at [Portland State University](https://www.pdx.edu/). I’m doing my Ph.D. in Mathematical Sciences; I started in Fall 2021. Previously, I got my Master and Bachelor degree in Mathematics at [Pontificia Universidad Católica de Valparaíso](https://pucv.cl/). I also attended [IMPA](https://impa.br/)’s summer school in 2019.
+I’m Gabriel Pinochet Soto, a 25-year-old graduate student at [Portland State University](https://www.pdx.edu/).
+I’m doing my Ph.D. in Mathematical Sciences; I started in Fall 2021.
+Previously, I got my Master and Bachelor degree in Mathematics at [Pontificia Universidad Católica de Valparaíso](https://pucv.cl/).
+I also attended [IMPA](https://impa.br/)’s summer school in 2019 and the [Second NGSolve user meeting](https://ngsolve.org/news/2nd-ngsolve-user-meeting) in  2018.
 
 I like math. I like (most of) analysis. My current interests are functional analysis, numerical analysis, and numerical methods for differential equations. In particular, I have some work related to numerical methods for production-destruction models and resistivity measurements in axisymmetrical settings.
 
