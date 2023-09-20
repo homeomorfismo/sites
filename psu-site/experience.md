@@ -4,6 +4,15 @@ title: Work experience
 permalink: /work/
 ---
 
+# Intern, Comp-Scholar, Lawrence Livermore National Laboratory, Livermore, CA. Summer 2023
+
+I worked at LLNL as an Intern, under the [Computing Scholar Program](https://computing.llnl.gov/sites/default/files/scholar-expo-flier-final.pdf).
+My mentor was [Dr. Chak Shing Lee](https://people.llnl.gov/lee1029), with contributions from [Dr. Panayot S. Vassilevski](https://web.pdx.edu/~panayot/).
+Our work focused on implementing and comparing different block-solvers for the discretization of Darcy equations. 
+In particular, we implemented a Bramble-Pasciak transformation to the system, that allows the application of conjugate gradient for systems that are not symmetric positive definite. 
+We also implemented a reduced preconditioned conjugate gradient iteration that relies on a specific choice of the preconditioner.
+This work was implemented in MFEM, and we expect it to be available in the set of miniapps MFEM enjoys.
+
 # Givens, Argonne National Laboratory, Lemont, IL. Summer 2022
 
 I worked at ANL as a Givens Intern.
@@ -21,4 +30,4 @@ Currently, I am a graduate research assistant, involved in the [research trainin
 
 ### Secretary, [SIAM PDX Student Chapter](https://sites.google.com/pdx.edu/siampdx/). Fall 2022 - Today
 
-I contribute with my friends and colleagues to generate STEM-related instances for exploration in those topics under an undergraduate-and-graduate-friendly format.
+I contribute with my colleagues to generate STEM-related instances for exploration in those topics under an undergraduate-and-graduate-friendly format.

@@ -15,11 +15,11 @@ I like math. I like (most of) analysis. My current interests are functional anal
 
 *Currently*, my favorite Theorems are Grothendieck’s characterization of compact sets in normed spaces, Banach’s fixed point principle, and Arzelà-Ascoli Theorem. My favorite proof is Urysohn’s Lemma proof by indexing separating sets with dyadic numbers.
 
-I also like to play guitar, pretend I can write songs and poetry, read comics, watch shows, and listen to music while biking around the waterfront. I’ve been living in [Portland, Oregon](https://www.portland.gov/), for more than a year. Previously, I lived in [Viña del Mar](https://www.chile.travel/en/where-to-go/destination/vina-del-mar/) and [Rio de Janeiro](https://www.riodejaneiro.com/).
+I also like to play guitar, pretend I can write songs and poetry, read comics, watch shows, and listen to music while biking around the waterfront. I’ve been living in [Portland, Oregon](https://www.portland.gov/), for more than *two* years. Previously, I lived in [Viña del Mar](https://www.chile.travel/en/where-to-go/destination/vina-del-mar/), [Rio de Janeiro](https://www.riodejaneiro.com/), and [Hayward](https://www.hayward-ca.gov).
 
 ## Contact
 
-email: [gpin2@pdx.edu](mailto:gpin2@pdx.edu) [gpinochetsoto@anl.gov](mailto:gpinochetsoto@anl.gov)
+email: [gpin2@pdx.edu](mailto:gpin2@pdx.edu)
 
 blog: [homeomorfismo.github.io](https://homeomorfismo.github.io/)
 
