@@ -11,7 +11,7 @@ My mentor was [Dr. Chak Shing Lee](https://people.llnl.gov/lee1029), with contri
 Our work focused on implementing and comparing different block-solvers for the discretization of Darcy equations. 
 In particular, we implemented a Bramble-Pasciak transformation to the system, that allows the application of conjugate gradient for systems that are not symmetric positive definite. 
 We also implemented a reduced preconditioned conjugate gradient iteration that relies on a specific choice of the preconditioner.
-This work was implemented in MFEM, and we expect it to be available in the set of miniapps MFEM enjoys.
+This work was implemented in [MFEM](https://mfem.org), and we expect it to be available in the set of miniapps MFEM enjoys. See [here](https://github.com/mfem/mfem/pull/3862).
 
 # Givens, Argonne National Laboratory, Lemont, IL. Summer 2022
 
@@ -26,7 +26,7 @@ During my first year in the Ph.D. program, I got a graduate teaching assistant p
 More details related to the teaching work are in the [Teaching](/~gpin2/teach) tab.
 Currently, I am a graduate research assistant, involved in the [research training group in computation and data enabled science](https://sites.google.com/pdx.edu/rtg-in-cades) (as an *interesed trainee*) under the supervision of [Dr. Jay Gopalakrishnan](https://web.pdx.edu/~gjay/). More details soon to be included.
 
-### Other positions
+## Other positions
 
 ### Secretary, [SIAM PDX Student Chapter](https://sites.google.com/pdx.edu/siampdx/). Fall 2022 - Today
 
