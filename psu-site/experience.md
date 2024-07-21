@@ -4,6 +4,12 @@ title: Work experience
 permalink: /work/
 ---
 
+# Intern, Comp-Scholar, Lawrence Livermore National Laboratory, Livermore, CA. Summer 2024
+
+Currently, I am scheduled to work at LLNL as an Intern.
+I am working under the direction of [Dr. Chak Shing Lee](https://people.llnl.gov/lee1029) and [Dr. Tzanio Kolev](https://people.llnl.gov/kolev1).
+Our work focuses on implementing and testing a family of diagonal smoothers for general systems, and we want to precondition maxtrix-free methods with them as well.
+
 # Intern, Comp-Scholar, Lawrence Livermore National Laboratory, Livermore, CA. Summer 2023
 
 I worked at LLNL as an Intern, under the [Computing Scholar Program](https://computing.llnl.gov/sites/default/files/scholar-expo-flier-final.pdf).
@@ -11,7 +17,7 @@ My mentor was [Dr. Chak Shing Lee](https://people.llnl.gov/lee1029), with contri
 Our work focused on implementing and comparing different block-solvers for the discretization of Darcy equations. 
 In particular, we implemented a Bramble-Pasciak transformation to the system, that allows the application of conjugate gradient for systems that are not symmetric positive definite. 
 We also implemented a reduced preconditioned conjugate gradient iteration that relies on a specific choice of the preconditioner.
-This work was implemented in [MFEM](https://mfem.org), and we expect it to be available in the set of miniapps MFEM enjoys. See [here](https://github.com/mfem/mfem/pull/3862).
+This work is currently a feature in the [MFEM](https://mfem.org) library, specifically in the [Block Solvers Miniapp](https://github.com/mfem/mfem/blob/master/miniapps/solvers/README).
 
 # Givens, Argonne National Laboratory, Lemont, IL. Summer 2022
 
