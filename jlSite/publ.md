@@ -12,7 +12,7 @@ title = "Publications"
 
 - Giani, Stefano, Jeffrey Ovall, and Gabriel Pinochet-Soto. "Adaptive refinement for eigenvalue problems based on an associated source problem." *arXiv preprint arXiv:2501.05311* (2025). [Preprint](https://arxiv.org/pdf/2501.05311.pdf)
 
-- Erdozain, Aralar, Ignacio Muga, Victor Péron, and Gabriel Pinochet. "Semi-analytical solutions for the problem of the electric potential set in a borehole with a highly conductive casing." *GEM-International Journal on Geomathematics* 13, no. 1 (2022): 6. [Pulication](https://doi.org/10.1007/s13137-022-00197-3) | [Preprint](https://hal.science/hal-03373028/file/EMPP21.pdf)
+- Erdozain, Aralar, Ignacio Muga, Victor Péron, and Gabriel Pinochet. "Semi-analytical solutions for the problem of the electric potential set in a borehole with a highly conductive casing." *GEM-International Journal on Geomathematics* 13, no. 1 (2022): 6. [Publication](https://doi.org/10.1007/s13137-022-00197-3) | [Preprint](https://hal.science/hal-03373028/file/EMPP21.pdf)
 
 
 ## Talks

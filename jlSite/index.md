@@ -18,8 +18,7 @@ I'm pursuing my Ph.D. in *Mathematical Sciences*; I began in Fall 2021.
 Previously, I obtained my Master and Bachelor degrees in Mathematics at
 [Pontificia Universidad Católica de Valparaíso](https://pucv.cl/).
 I also participated in [IMPA](https://impa.br/)'s summer school in 2019
-and attended the [Second NGSolve user meeting](https://ngsolve.org/news/2nd-ngsolve-
-user-meeting) in 2018.
+and attended the [Second NGSolve user meeting](https://ngsolve.org/news/2nd-ngsolve-user-meeting) in 2018.
 I've completed internships at [ANL](https://www.anl.gov) and 
 [LLNL](https://www.llnl.gov).
 
@@ -34,7 +33,7 @@ models.
 My master's research centered on numerical methods for resistivity measurements
 in axisymmetrical settings.
 
-## Current Research
+### Current Research
 
 - $h$-adaptivity, error estimation
     - DWR method for non-self-adjoint problems
@@ -98,8 +97,8 @@ comics, watching shows, and listening to music while biking around the
 waterfront.
 I've been residing in [Portland, Oregon](https://www.portland.gov/), for more 
 than *three* years.
-Prior to Portland, I lived in [Viña del Mar](https://www.chile.travel/en/where-
-to-go/destination/vina-del-mar/), [Rio de Janeiro](https://www.riodejaneiro.com/), 
+Prior to Portland, I lived in [Viña del Mar](https://www.chile.travel/en/where-to-go/destination/vina-del-mar/),
+[Rio de Janeiro](https://www.riodejaneiro.com/), 
 [Hayward](https://www.hayward-ca.gov), and [Livermore](https://www.livermoreca.gov/).
 
 ## Contact
